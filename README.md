@@ -50,15 +50,23 @@ Simplify the creation of labeled datasets for educational and research purposes.
 4. Project Structure
 
    CaesarCipherProject/
+   
       │
+   
       ├── caesar_cipher.py        # Main script
+   
       ├── requirements.txt        # Python dependencies
+   
       ├── README.md               # Project documentation
+   
       ├── .gitignore              # Files to ignore in the repository
+   
       └── dataset/                # Folder for generated datasets
+   
           ├── caesar_cipher_dataset.csv
+   
 
-5. How It Works:-
+6. How It Works:-
    
   Generate Random Text: The program creates random text samples containing letters (uppercase and lowercase) and spaces.
   Apply Caesar Cipher: Each sample is encrypted using a Caesar cipher with a random shift between 1 and 25.
