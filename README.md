@@ -14,9 +14,9 @@ The Caesar cipher is a simple substitution cipher that shifts each letter in the
 
 **Goals of the Project:-**
 • Provide a tool to generate datasets for cryptography and machine learning research.
-•Offer a practical demonstration of the Caesar cipher encryption algorithm.
-•Enable training of machine learning models to predict cipher shifts or decrypt text.
-•Simplify the creation of labeled datasets for educational and research purposes.
+• Offer a practical demonstration of the Caesar cipher encryption algorithm.
+• Enable training of machine learning models to predict cipher shifts or decrypt text.
+• Simplify the creation of labeled datasets for educational and research purposes.
 
 ---
 
@@ -52,7 +52,6 @@ The Caesar cipher is a simple substitution cipher that shifts each letter in the
    CaesarCipherProject/
    
       │
-   
       ├── caesar_cipher.py        # Main script
    
       ├── requirements.txt        # Python dependencies
