@@ -52,6 +52,7 @@ The Caesar cipher is a simple substitution cipher that shifts each letter in the
    CaesarCipherProject/
    
       │
+   
       ├── caesar_cipher.py        # Main script
    
       ├── requirements.txt        # Python dependencies
