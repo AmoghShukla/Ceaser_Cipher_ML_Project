@@ -43,6 +43,26 @@ This project implements the **Caesar Cipher** encryption and decryption techniqu
    python main.py
    ```
 
+## 🧠 How It Works
+1. The Caesar Cipher shifts each letter in a given text by a fixed number (shift value).
+2. The ML model attempts to learn patterns in encoded texts and predict the shift value or directly decrypt messages.
+3. Various models and NLP techniques may be used for decryption.
+
+## 📊 Machine Learning Approach
+- **Feature Extraction**: Convert text into numerical representations.
+- **Model Training**: Train models to detect patterns in ciphered texts.
+- **Evaluation**: Measure accuracy in predicting shift values or decrypting texts.
+
+## 🔥 Future Improvements
+- Implement a GUI for better user interaction.
+- Expand ML models for more complex cipher systems.
+- Improve dataset diversity for better predictions.
+
+## 🤝 Contributing
+Feel free to contribute by opening issues or pull requests. Contributions are welcome!
+
+## 📜 License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 Made with ❤️ by **Amogh Shukla**
